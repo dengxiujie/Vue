@@ -1,0 +1,32 @@
+{
+    "common": {
+        "login": "登录",
+        "exit": "退出",
+        "Reset":"重置",
+        "SystemLogin":"系统登录",
+        "Account":"账号",
+        "Password":"密码",
+        "myMsg":"个人中心",
+        "config":"设置",
+        "logout":"退出登录",
+        "code":"验证码，单击图片刷新",
+        "Remember":"记住密码"
+    },
+    "home": {
+        "home": "首页",
+        "doc": "文档",
+        "Message":"消息中心"
+    },
+    "sys":{
+        "userMng":"环保",
+        "deptMng":"企业",
+        "roleMng":"能源",
+        "menuMng":"经济",
+        "logMng":"封闭",
+        "sysMng":"安监",
+        "sysMonitor":"组二",
+        "nav3":"菜单三",
+        "nv4":"菜单四"
+
+    }
+}

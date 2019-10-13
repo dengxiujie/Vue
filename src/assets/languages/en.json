@@ -1,0 +1,31 @@
+{
+    "common": {
+        "login": "Login",
+        "Reset":"Reset",
+        "SystemLogin":"System login",
+        "Account":"Account number",
+        "Password":"Password",
+        "myMsg":"myMsg",
+        "config":"config",
+        "logout":"logout",
+        "code":"Verification code",
+        "Remember":"Remember password"
+
+    },
+    "home": {
+        "home": "home",
+        "doc": "document",
+        "Message":"Message"
+    },
+    "sys":{
+        "userMng":"userMng",
+        "deptMng":"deptMng",
+        "roleMng":"roleMng",
+        "menuMng":"menuMng",
+        "logMng":"logMng",
+        "sysMng":"sysMng",
+        "sysMonitor":"sysMonitor",
+        "nav3":"nav3",
+        "nv4":"nv4"
+    }
+}
