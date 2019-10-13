@@ -28,7 +28,7 @@
         </el-form-item>
       </el-col>
     </el-form-item>
-     <el-checkbox v-model="checked" checked class="remember">{{$t('common.sRemember')}}</el-checkbox>
+     <el-checkbox v-model="checked" checked class="remember">{{$t('common.Remember')}}</el-checkbox>
     <el-form-item style="width:100%;">
       <el-button type="primary" style="width:48%;" @click.native.prevent="reset">{{$t('common.Reset')}}</el-button>
       <el-button type="primary" style="width:48%;" @click.native.prevent="login" :loading="loading">{{$t('common.login')}}</el-button>
